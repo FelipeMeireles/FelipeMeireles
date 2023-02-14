@@ -5,7 +5,7 @@
 </p align="center">
 
 <a href="https://github.com/FelipeMeireles?tab=repositories">
- <img src="https://github.com/FelipeMeireles/FelipeMeireles/blob/main/images/banner(1).png&link=https://github.com/FelipeMeireles?tab=repositories" />
+ <img src="https://i.redd.it/mmaydi6us7ia1.png&link=https://github.com/FelipeMeireles?tab=repositories" />
 </a>
  
 <!-- <p align="center">
