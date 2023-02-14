@@ -12,7 +12,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
 
 </p> -->
-<br>
+<hr>
 <p align="center">
   I'm a front-end developer, I'm in the learning process, but some of the technologies that I have some knowledge of are: HTML5, Css3, JavaScript, Python, MySQL, SQL, Magento2, Linux, Git, Devilbox, Bootstrap, Bitbucket, Jira, Coda, Google Cloud, Figma, Magento Cloud, PHP e Docker.
 </p>  
@@ -75,8 +75,5 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
