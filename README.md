@@ -1,10 +1,6 @@
-
-
-<p align="center">
- 
 </p align="center">
 
-<a style="color: pink" href="https://github.com/FelipeMeireles?tab=repositories">
+<a href="https://github.com/FelipeMeireles?tab=repositories">
  <img src="https://github.com/FelipeMeireles/FelipeMeireles/blob/main/images/banner(1).png" />
 </a>
  
@@ -16,7 +12,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
 
 </p> -->
-
+<br>
 <p align="center">
   I'm a front-end developer, I'm in the learning process, but some of the technologies that I have some knowledge of are: HTML5, Css3, JavaScript, Python, MySQL, SQL, Magento2, Linux, Git, Devilbox, Bootstrap, Bitbucket, Jira, Coda, Google Cloud, Figma, Magento Cloud, PHP e Docker.
 </p>  
