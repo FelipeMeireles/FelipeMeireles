@@ -4,7 +4,7 @@
  
 </p align="center">
 
-<a style="margin-bottom:20px" href="https://github.com/FelipeMeireles?tab=repositories">
+<a style="color: pink" href="https://github.com/FelipeMeireles?tab=repositories">
  <img src="https://github.com/FelipeMeireles/FelipeMeireles/blob/main/images/banner(1).png" />
 </a>
  
