@@ -67,13 +67,13 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=FelipeMeireles&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeireles&hide=html,css,javascript,php,python&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMeireles&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">If you like it, give it a star ⭐</p>
