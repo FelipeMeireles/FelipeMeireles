@@ -6,7 +6,7 @@
 
 <a href="https://github.com/FelipeMeireles?tab=repositories">
  <img src="https://github.com/FelipeMeireles/FelipeMeireles/blob/main/images/banner(1).png" />
-</a>
+</a> <br>
  
 <!-- <p align="center">
  
