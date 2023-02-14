@@ -6,7 +6,7 @@
 
 <a href="https://github.com/FelipeMeireles?tab=repositories">
  <img src="https://github.com/FelipeMeireles/FelipeMeireles/blob/main/images/banner(1).png" />
-</a> <br>
+</a>
  
 <!-- <p align="center">
  
@@ -15,7 +15,7 @@
  <img src="https://badges.pufler.dev/repos/ritik307"/>
  <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
 
-</p> -->
+</p> --> <br>
 
 <p align="center">
   I'm a front-end developer, I'm in the learning process, but some of the technologies that I have some knowledge of are: HTML5, Css3, JavaScript, Python, MySQL, SQL, Magento2, Linux, Git, Devilbox, Bootstrap, Bitbucket, Jira, Coda, Google Cloud, Figma, Magento Cloud, PHP e Docker.
