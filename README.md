@@ -41,7 +41,7 @@
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: felipe.meireles825@gmail.com">
+<a href="mailto: meirelesfelipe776@gmail.com">
  <img src="https://img.shields.io/badge/-FelipeMeireles-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.meireles825@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/felipe-meireles-67b57425a/">
