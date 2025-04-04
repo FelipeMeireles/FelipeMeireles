@@ -14,7 +14,7 @@
 </p> -->
 <hr>
 <p align="center">
-  I'm a front-end developer, I'm in the learning process, but some of the technologies that I have some knowledge of are: HTML5, Css3, JavaScript, Python, MySQL, SQL, Magento2, Linux, Git, Devilbox, Bootstrap, Bitbucket, Jira, Coda, Google Cloud, Figma, Magento Cloud, PHP e Docker.
+  I'm a front-end developer, I'm in the learning process, but some of the technologies that I have some knowledge of are: HTML5, Css3, JavaScript, Python, MySQL, SQL, Magento2, Linux, Git, Devilbox, Bootstrap, Bitbucket, Jira, Coda, Google Cloud, Figma, Magento Cloud, PHP and Docker.
 </p>  
 
 <h2 align="center">Technologies I know <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
