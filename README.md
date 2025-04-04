@@ -39,15 +39,15 @@
 
 <h2 align="center">Contact me at <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/felpsmeireles/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:meirelesfelipe776@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-meireles-67b57425a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <a href="mailto: meirelesfelipe776@gmail.com">
  <img src="https://img.shields.io/badge/-Felipe Meireles-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meirelesfelipe776@gmail.com"/>
 </a>
@@ -57,7 +57,7 @@
  <a href="https://www.instagram.com/felpsmeireles/">
  <img src="https://img.shields.io/badge/-felps-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/felpsmeireles/"/>
 </a>
-</p>
+</p> -->
 
 
 <h2 align="center">
@@ -77,10 +77,6 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=FelipeMeireles&show_icons=true&theme=dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeireles&layout=compact&theme=dark">
 </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMeireles&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-</p> 
 
 <hr>
 <p align="center">If you like it, give it a star ⭐</p>
