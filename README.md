@@ -78,4 +78,4 @@
 </p>
 
 <hr>
-<p align="center">If you like it, give it a star ⭐</p>
+<p align="center">If you like it, follow me ❤️</p>
